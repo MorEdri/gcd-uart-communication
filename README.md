@@ -3,7 +3,8 @@ GCD over UART Communication
 This project implements a UART-based communication system to compute the Greatest Common Divisor (GCD) of two 8-bit numbers using Verilog.
 
 System Block Diagram
-![image](https://github.com/user-attachments/assets/de895c9f-202d-486b-99bb-094d9577a591)
+![image](https://github.com/user-attachments/assets/646369bc-4aff-44a3-b4da-54390ba6664d)
+
 
 Modules Overview:
 UART Receiver (RX): Receives two bytes representing the input numbers.
